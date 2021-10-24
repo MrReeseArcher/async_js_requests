@@ -1,0 +1,1 @@
+require('./async_js_requests/requests.js');
